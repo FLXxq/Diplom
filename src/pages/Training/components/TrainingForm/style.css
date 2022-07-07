@@ -1,4 +1,11 @@
 .training-form {
-    width: 350px;
     display: flex;
+    flex-direction: column;
+}
+
+.grid-style-training {
+    margin-bottom: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }

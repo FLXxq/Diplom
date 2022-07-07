@@ -1,0 +1,47 @@
+/*.card-style-training {
+    width: 350px;
+    height: 500px;
+    padding: 0 5rem 5rem 5rem;
+
+}*/
+
+.training-photo {
+    height: 450px;
+    width: 450px;
+}
+
+.card-style-content-training {
+    overflow: auto;
+    width: 500px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.photo-grid {
+    display: flex;
+    justify-content: center;
+}
+
+.name-grid {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.training-name {
+    display: flex;
+    justify-content: center;
+}
+
+/*
+.a {
+    width: 50%;
+}
+
+.div-tra {
+    width: 500px;
+}
+*/

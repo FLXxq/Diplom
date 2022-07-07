@@ -5,3 +5,37 @@
     flex-direction: column;
     align-items: center;
 }
+
+
+.text {
+    display: flex;
+}
+
+.description {
+    margin-left: 30px;
+}
+
+
+.one p {
+    color: #dbd404;
+    font-size: 20px;
+}
+
+.one {
+
+}
+
+.two p {
+    color: green;
+    font-size: 20px
+}
+
+.three p {
+    color: orange;
+    font-size: 20px
+}
+
+.four  p {
+    color: red;
+    font-size: 20px
+}

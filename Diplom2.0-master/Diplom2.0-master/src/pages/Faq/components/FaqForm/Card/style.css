@@ -1,0 +1,14 @@
+.card-style {
+    width: 350px;
+    height: 500px;
+    padding: 0 5rem 5rem 5rem;
+}
+
+.photo {
+    height: 450px;
+}
+
+.card-style-content {
+    overflow: auto;
+    height: 100%;
+}

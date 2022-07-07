@@ -8,7 +8,6 @@ const Training = () => {
         <>
             <Header content='Список тренировок'/>
             <TrainingForm/>
-
         </>
     )
 }
